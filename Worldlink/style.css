@@ -1,0 +1,224 @@
+.container-fluid{
+    background-color: #E7EAEC;
+    height: 175px;
+}
+.gif{
+    height: 80px;
+    width: 80px;
+    margin-left: 30px;
+}
+.logo{
+    height: 30px;
+    size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.menu{
+    margin-left: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color:#3D3BB6 ;
+}
+.menu li{
+    color: #3D3BB6 ;
+}
+.navbar{    
+    height: 60px;
+}
+.submenu{
+    background-image: linear-gradient(120deg, #667eea, #764ba2);
+    margin-top: 20px;
+    width: 100%;
+}
+.stickyicons{
+background-image: linear-gradient(120deg, #667eea, #764ba2);
+display: flex;
+flex-wrap: wrap;
+width: max-content;
+margin-left: 350px;
+height: 120px;
+justify-content: center;
+text-align: center;
+margin-top: -50px;
+/* z-index:-1; */
+}
+.sticky{
+    width: 30px;
+}
+.text-decoration-none{
+    color: white;
+    
+}
+.text-decoration-none:hover{
+    color: white;
+}
+.wifi, .bills{
+border-right: solid white 1px;
+padding-right: 20px;
+}
+.refer{
+    border-right: solid white 1px;   
+    padding-right: 20px;
+}
+.bills, .refer, .wifi, .app{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 30px;
+}
+.digitaltools{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #3D3BB6;
+    text-align: center;
+}
+.tools-content{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.Block{
+    text-align: center;
+    margin: 50px;
+}
+.tool{
+    color: #3D3BB6; 
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    padding-top: 5px;
+    background-image: linear-gradient(120deg, #667eea, #764ba2);
+}
+.footerrow{
+    margin-left: 100px;
+}
+.list-inline{
+    display: flex;
+    flex-wrap: wrap;
+}
+.linkmenu{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.linkmenu :hover{
+    color: white;
+}
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:50px;
+    margin-top: 50px;
+}
